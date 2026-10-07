@@ -59,7 +59,7 @@ ADMIN_ID = 7612262376 #yeha koi admin ya tumhara chat id dalo
 YOUR_USERNAME = '@lakshyaxgod1' #yeha tumhra username dala
 UPDATE_CHANNEL = 'https://t.me/+Nq2N9Mn1O2Q4Njc1' #yeha chnl link dalo''
 FORCE_JOIN_CHANNELS = {
-"https://t.me/+Fh_1J8Ki_pAyZjhl":"𝐉𝐎𝐈𝐍",
+"+Fh_1J8Ki_pAyZjhl":"𝐉𝐎𝐈𝐍",
 
 }
 
